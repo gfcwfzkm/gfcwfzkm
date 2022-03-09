@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on a [nixie tube clock](https://github.com/gfcwfzkm/RISC-V-Nixie)
 
-- 🌱 I’m currently learning **the STM32 & SAMD microcontrollers**
+- 🌱 I’m currently exploring **the GD32VF103, STM32 & SAMD microcontrollers**
 
-- 👯 I’m looking to collaborate on **making guides for the RISC-V GD32VF103**
+- 👯 I’m looking to collaborate on **making guides/libraries for the RISC-V GD32VF103**
 
 - 💬 Ask me about **electronics and microcontrollers**
 
