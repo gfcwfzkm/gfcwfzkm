@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pascal</h1>
 <h3 align="center">A passionate electronics technician, looking to further develop his skills and knowledge</h3>
 
-- 🔭 I’m currently working on a [nixie tube clock](https://github.com/gfcwfzkm/RISC-V-Nixie)
+- 🔭 I’m currently working on a [nixie tube clock](https://github.com/gfcwfzkm/RISC-V-Nixie), [the PIF Image Format](https://github.com/gfcwfzkm/PIF-Image-Format) and the portable / embeddable [gshell](https://github.com/gfcwfzkm/gshell)
 
 - 🌱 I’m currently exploring **the GD32VF103, STM32 & SAMD microcontrollers**
 
