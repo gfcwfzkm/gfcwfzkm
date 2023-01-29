@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on a [nixie tube clock](https://github.com/gfcwfzkm/RISC-V-Nixie), [the PIF Image Format](https://github.com/gfcwfzkm/PIF-Image-Format) and [the embedded terminal shell](https://github.com/gfcwfzkm/gshell)
 
-- 🌱 I’m currently exploring **the GD32VF103, STM32 & SAMD microcontrollers**
+- 🌱 I’m currently exploring **the ESP32 (RISCV), STM32 & SAMD microcontrollers**
 
-- 👯 I’m looking to collaborate on **making guides/libraries for the RISC-V GD32VF103**
+- 👯 I’m looking to collaborate on **any electronic projects**
 
 - 💬 Ask me about **electronics and microcontrollers**
 
