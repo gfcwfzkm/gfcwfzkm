@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pascal</h1>
 <h3 align="center">A certified electronics technician & electrical engineering student</h3>
 
-- 🔭 I’m currently working on a [nixie tube clock](https://github.com/gfcwfzkm/RISC-V-Nixie), [the PIF Image Format](https://github.com/gfcwfzkm/PIF-Image-Format) and [the embedded terminal shell](https://github.com/gfcwfzkm/gshell)
+- 🔭 I’m currently working on a [nixie tube clock](https://github.com/gfcwfzkm/RISC-V-Nixie) and toying with [an chip8 emulator in C++](https://github.com/gfcwfzkm/chip8pp)
 
-- 🌱 I’m currently exploring **the ESP32 (RISCV), STM32 & SAMD microcontrollers**
+- 🌱 I’m currently exploring **the VHDL, RISC-V and ESP32 microcontrollers**
 
 - 👯 I’m looking to collaborate on **any electronic projects**
 
