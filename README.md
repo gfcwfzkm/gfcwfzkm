@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **electronics and microcontrollers**
 
-- 📫 How to reach me via Mail **gfcwfzkm@protonmail.com** or Discord **gfcwfzkm#0801**
+- 📫 How to reach me via Mail **gfcwfzkm@protonmail.com**
 
 - ⚡ I love working on electronics and embedded software <3
 
